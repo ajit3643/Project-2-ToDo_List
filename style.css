@@ -80,7 +80,7 @@ ul li{
 }
 ul li::before{
     content: "";
-    background: url(./imgs/undone.png);
+    background: url(./images/undone.png);
     background-size: cover;
     position: center;
     position: absolute;
@@ -95,7 +95,7 @@ ul li::before{
     color: white;
 }
 .checked::before{
-    background: url(./imgs/done.png);
+    background: url(./images/done.png);
     width: 30px;
     height: 30px;
     background-size: cover;
